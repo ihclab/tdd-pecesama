@@ -1,9 +1,0 @@
-c:\Users\Pedro\Desktop\tdd-pecesama\Ordenamiento\bin\Debug\netstandard2.0\Ordenamiento.deps.json
-c:\Users\Pedro\Desktop\tdd-pecesama\Ordenamiento\bin\Debug\netstandard2.0\Ordenamiento.dll
-c:\Users\Pedro\Desktop\tdd-pecesama\Ordenamiento\bin\Debug\netstandard2.0\Ordenamiento.pdb
-c:\Users\Pedro\Desktop\tdd-pecesama\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.csprojAssemblyReference.cache
-c:\Users\Pedro\Desktop\tdd-pecesama\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.csproj.CoreCompileInputs.cache
-c:\Users\Pedro\Desktop\tdd-pecesama\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.AssemblyInfoInputs.cache
-c:\Users\Pedro\Desktop\tdd-pecesama\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.AssemblyInfo.cs
-c:\Users\Pedro\Desktop\tdd-pecesama\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.dll
-c:\Users\Pedro\Desktop\tdd-pecesama\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.pdb
