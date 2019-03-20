@@ -5844,11 +5844,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pedro\\Desktop\\tdd-pecesama\\Ordenamiento.Pruebas\\Ordenamiento.Pruebas.csproj",
+      "projectUniqueName": "c:\\Users\\Pedro\\Desktop\\tdd-pecesama\\Ordenamiento.Pruebas\\Ordenamiento.Pruebas.csproj",
       "projectName": "Ordenamiento.Pruebas",
-      "projectPath": "C:\\Users\\Pedro\\Desktop\\tdd-pecesama\\Ordenamiento.Pruebas\\Ordenamiento.Pruebas.csproj",
+      "projectPath": "c:\\Users\\Pedro\\Desktop\\tdd-pecesama\\Ordenamiento.Pruebas\\Ordenamiento.Pruebas.csproj",
       "packagesPath": "C:\\Users\\Pedro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pedro\\Desktop\\tdd-pecesama\\Ordenamiento.Pruebas\\obj\\",
+      "outputPath": "c:\\Users\\Pedro\\Desktop\\tdd-pecesama\\Ordenamiento.Pruebas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5865,8 +5865,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Pedro\\Desktop\\tdd-pecesama\\Ordenamiento\\Ordenamiento.csproj": {
-              "projectPath": "C:\\Users\\Pedro\\Desktop\\tdd-pecesama\\Ordenamiento\\Ordenamiento.csproj"
+            "c:\\Users\\Pedro\\Desktop\\tdd-pecesama\\Ordenamiento\\Ordenamiento.csproj": {
+              "projectPath": "c:\\Users\\Pedro\\Desktop\\tdd-pecesama\\Ordenamiento\\Ordenamiento.csproj"
             }
           }
         }
