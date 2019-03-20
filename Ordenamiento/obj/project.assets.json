@@ -179,23 +179,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Pedro\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/psantana/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pedro\\Desktop\\tdd-pecesama\\Ordenamiento\\Ordenamiento.csproj",
+      "projectUniqueName": "/Users/psantana/Desktop/tdd-pecesama/Ordenamiento/Ordenamiento.csproj",
       "projectName": "Ordenamiento",
-      "projectPath": "C:\\Users\\Pedro\\Desktop\\tdd-pecesama\\Ordenamiento\\Ordenamiento.csproj",
-      "packagesPath": "C:\\Users\\Pedro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pedro\\Desktop\\tdd-pecesama\\Ordenamiento\\obj\\",
+      "projectPath": "/Users/psantana/Desktop/tdd-pecesama/Ordenamiento/Ordenamiento.csproj",
+      "packagesPath": "/Users/psantana/.nuget/packages/",
+      "outputPath": "/Users/psantana/Desktop/tdd-pecesama/Ordenamiento/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/psantana/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"

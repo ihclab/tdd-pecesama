@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ordenamiento", "Ordenamiento\Ordenamiento.csproj", "{3350A637-2380-4DCB-B234-BEABF8D330B0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ordenamiento", "Ordenamiento\Ordenamiento.csproj", "{D72CF3A4-B332-408B-BCBE-6A3591E6152C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ordenamiento.Pruebas", "Ordenamiento.Pruebas\Ordenamiento.Pruebas.csproj", "{99E5015C-D16F-42B5-92E7-B2D727C3FF96}"
 EndProject
